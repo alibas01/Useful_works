@@ -1,0 +1,1 @@
+A python for SQL commands. Seed files created into a local text file. Requires additional work.
